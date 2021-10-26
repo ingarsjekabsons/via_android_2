@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="_2_nd_activity">2-nd Activity</string>
+    <string name="back">Back</string>
+    <string name="_1_st_activity">1-st Activity</string>
+    <string name="go_to_2_nd">Go to 2-nd</string>
+    <string name="dialog">Dialog</string>
+    <string-array name="items">
+        <item>Jana Puze</item>
+        <item>Zanda Puče</item>
+        <item>Ingars Jēkabsons</item>
+    </string-array>
+</resources>
